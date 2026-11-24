@@ -1,0 +1,25 @@
+CIDADE VIVA — versão revisada para o roteiro da 2ª unidade
+
+Arquivos:
+- index.html — página única com estrutura HTML5 e navegação por âncoras.
+- style.css — estilos em CSS3, com layout Flexbox.
+- midia/cidade.svg — imagem ilustrativa usada na página.
+- midia/video-cidade-limpa.mp4 — vídeo curto de conscientização.
+- midia/mensagem-cidade-limpa.mp3 — áudio narrado em português.
+
+Como visualizar:
+1. Extraia o arquivo ZIP mantendo a pasta midia junto de index.html.
+2. Abra index.html no navegador.
+
+Verificação dos requisitos do roteiro:
+- Estrutura HTML5: divs, títulos, parágrafos, listas, section, header e footer.
+- Mídias e links: imagem, vídeo, áudio e navegação com links ancorados.
+- Dados estruturados: tabela informativa com cabeçalho e linhas.
+- CSS3: display:flex, box-shadow, text-shadow, bordas, border-radius e position relative, absolute e static.
+- Interatividade visual: efeitos :hover em links, botões estilizados e cards.
+- Sem JavaScript, frameworks, bibliotecas externas ou animações complexas com CSS Keyframes.
+
+Atenção:
+- O projeto foi preparado para abrir localmente e para publicação no GitHub Pages.
+- Ao publicar, envie index.html, style.css e a pasta midia completa para a raiz do repositório.
+- Revise e personalize os créditos e o conteúdo antes da apresentação.
